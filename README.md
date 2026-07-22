@@ -1,16 +1,16 @@
-Author
+#Author
 
-Name: Anush E
+##Name: Anush E
 
-Problem: Longest Valid Parentheses
+##Problem: Longest Valid Parentheses
 
-Approach: Two Traversals (Left-to-Right & Right-to-Left)
+##Approach: Two Traversals (Left-to-Right & Right-to-Left)
 
-Language: Python
+##Language: Python
 
-Time Complexity: O(n)
+##Time Complexity: O(n)
 
-Space Complexity: O(1)
+##Space Complexity: O(1)
 
 # Longest Valid Parentheses (Two Traversals)
 
