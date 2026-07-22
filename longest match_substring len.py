@@ -1,4 +1,6 @@
 def find_longest_match(s):
+    if s == "":
+        return 0
     n = len(s)
     max_len = 0
     op = 0
